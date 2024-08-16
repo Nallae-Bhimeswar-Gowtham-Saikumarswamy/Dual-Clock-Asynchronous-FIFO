@@ -1,4 +1,4 @@
-                                  **Dual-Clock-Asynchronous-FIFO **
+                                  _Dual-Clock-Asynchronous-FIFO_
 
 Asynchronous FIFO can effectively solve the metastable phenomenon of data transmission and storage across the clock domain 
 ![image](https://github.com/user-attachments/assets/6715ed38-847b-434b-8d3f-61f802b243b4)
